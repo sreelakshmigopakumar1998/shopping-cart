@@ -26,7 +26,7 @@ dbconfig.connect(function (error) {
             description: 'Fantastic Game!!!',
             price: '40'
         },{
-            imagePath: 'https://upload.wikimedia.org/wikipedia/en/5/5e/Gothiccover.png\'',
+            imagePath: 'https://upload.wikimedia.org/wikipedia/en/5/5e/Gothiccover.png',
             title: 'Gothic Video Game',
             description: 'Awesome Game!!!',
             price: '20'
